@@ -64,7 +64,7 @@ The risk-adjusted valuation is more conservative because it explicitly incorpora
 
 ## Repository Files
 
-### `Cboe_Valuation_Model.xlsm`
+### `CBOE_DCF_Luisi_Francesco.xlsm`
 
 Contains:
 
@@ -76,7 +76,7 @@ Contains:
 * Trading multiples
 * Football field valuation summary
 
-### `Cboe_Risk_Adjusted_Valuation.xlsm`
+### `CBOE_DCF_Imperfect_Luisi_Francesco.xlsm`
 
 Contains:
 
